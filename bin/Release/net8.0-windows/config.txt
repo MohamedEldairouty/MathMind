@@ -1,1 +1,0 @@
-Server=127.0.0.1;Database=OnlineExamSystem;User Id=Mohamed Eldairouty;Password=2828;

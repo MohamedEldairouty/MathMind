@@ -1,17 +1,15 @@
-# Ignore build results
-bin/
-obj/
-*.exe
-*.dll
-*.pdb
-*.cache
-*.log
+# Ignore build & publish outputs
+**/bin/
+**/obj/
+**/Release/
+**/Debug/
+
+# VS/Windows junk
+.vs/
 *.user
 *.suo
-*.tmp
-*.vs/
-*.vscode/
-*.db
-*.bak
 *.DS_Store
-"*.r2r.dll" 
+Thumbs.db
+
+# Ignore published .exe unless in App/
+!App/**
