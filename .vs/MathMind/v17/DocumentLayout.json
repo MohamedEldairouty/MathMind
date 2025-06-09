@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|d:\\prog\\web\\backend\\.net\\c#\\college\\projects\\mathmind\\code\\c#\\mathmind\\manage questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|solutionrelative:manage questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|d:\\prog\\web\\backend\\.net\\c#\\college\\projects\\mathmind\\code\\c#\\mathmind\\manage questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|solutionrelative:manage questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|d:\\prog\\web\\backend\\.net\\c#\\college\\projects\\mathmind\\code\\c#\\mathmind\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|d:\\prog\\web\\backend\\.net\\c#\\college\\projects\\mathmind\\code\\c#\\mathmind\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|d:\\prog\\web\\backend\\.net\\c#\\college\\projects\\mathmind\\code\\c#\\mathmind\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|solutionrelative:homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|d:\\prog\\web\\backend\\.net\\c#\\college\\projects\\mathmind\\code\\c#\\mathmind\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|solutionrelative:config.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\student login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|solutionrelative:student login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\student register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|solutionrelative:student register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\student register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|solutionrelative:student register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\student login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|solutionrelative:student login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06668FB1-3CA4-4A36-8EA1-399C81A9D490}|MathMind.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manage Questions.cs",
+              "DocumentMoniker": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\Manage Questions.cs",
+              "RelativeDocumentMoniker": "Manage Questions.cs",
+              "ToolTip": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\Manage Questions.cs",
+              "RelativeToolTip": "Manage Questions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEQBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:29:45.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manage Questions.cs [Design]",
+              "DocumentMoniker": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\Manage Questions.cs",
+              "RelativeDocumentMoniker": "Manage Questions.cs",
+              "ToolTip": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\Manage Questions.cs [Design]",
+              "RelativeToolTip": "Manage Questions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:29:39.352Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.Designer.cs",
+              "DocumentMoniker": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\HomePage.Designer.cs",
+              "RelativeDocumentMoniker": "HomePage.Designer.cs",
+              "ToolTip": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\HomePage.Designer.cs*",
+              "RelativeToolTip": "HomePage.Designer.cs*",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAAKIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:12:57.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\HomePage.cs",
+              "RelativeDocumentMoniker": "HomePage.cs",
+              "ToolTip": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\HomePage.cs*",
+              "RelativeToolTip": "HomePage.cs*",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:58:13.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\HomePage.cs",
+              "RelativeDocumentMoniker": "HomePage.cs",
+              "ToolTip": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\HomePage.cs [Design]*",
+              "RelativeToolTip": "HomePage.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:56:35.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "config.txt",
+              "DocumentMoniker": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\config.txt",
+              "RelativeDocumentMoniker": "config.txt",
+              "ToolTip": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\config.txt",
+              "RelativeToolTip": "config.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-16T21:55:46.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student Register.cs",
+              "DocumentMoniker": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\Student Register.cs",
+              "RelativeDocumentMoniker": "Student Register.cs",
+              "ToolTip": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\Student Register.cs",
+              "RelativeToolTip": "Student Register.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowC0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:55:35.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student Register.cs [Design]",
+              "DocumentMoniker": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\Student Register.cs",
+              "RelativeDocumentMoniker": "Student Register.cs",
+              "ToolTip": "D:\\Prog\\Networks\\Code\\C#\\MathMind\\Student Register.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Networks\\Code\\C#\\MathMind\\Student Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:55:32.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:48:37.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student Login.cs",
+              "DocumentMoniker": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\Student Login.cs",
+              "RelativeDocumentMoniker": "Student Login.cs",
+              "ToolTip": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\Student Login.cs",
+              "RelativeToolTip": "Student Login.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAEUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:48:21.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student Login.cs [Design]",
+              "DocumentMoniker": "D:\\Prog\\WEB\\Backend\\.Net\\C#\\College\\Projects\\MathMind\\Code\\C#\\MathMind\\Student Login.cs",
+              "RelativeDocumentMoniker": "Student Login.cs",
+              "ToolTip": "D:\\Prog\\Networks\\Code\\C#\\MathMind\\Student Login.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Networks\\Code\\C#\\MathMind\\Student Login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:48:14.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

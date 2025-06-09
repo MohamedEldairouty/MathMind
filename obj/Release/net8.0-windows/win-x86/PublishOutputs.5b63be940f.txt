@@ -1,0 +1,8 @@
+D:\Prog\Networks\MathMind\MathMind.pdb
+D:\Prog\Networks\MathMind\D3DCompiler_47_cor3.dll
+D:\Prog\Networks\MathMind\PenImc_cor3.dll
+D:\Prog\Networks\MathMind\PresentationNative_cor3.dll
+D:\Prog\Networks\MathMind\vcruntime140_cor3.dll
+D:\Prog\Networks\MathMind\wpfgfx_cor3.dll
+D:\Prog\Networks\MathMind\sni.dll
+D:\Prog\Networks\MathMind\MathMind.exe

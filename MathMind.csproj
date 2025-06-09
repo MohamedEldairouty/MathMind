@@ -1,0 +1,77 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Resources\favicon2.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\favicon2.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus" Version="7.5.2" />
+    <PackageReference Include="itext7" Version="9.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Examiner EditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage Requests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Examiner Quiz Review.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student EditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quiz Review.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Examiner Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage Questions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage Grades.cs" />
+    <Compile Update="View Grades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Take Quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Examiner Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
