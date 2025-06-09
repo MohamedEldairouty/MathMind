@@ -4,7 +4,7 @@ using System.Net.Sockets;
 
 public class Client
 {
-   private TcpClient _client;
+   private  TcpClient _client;
 
    public void ConnectToServer()
    {
