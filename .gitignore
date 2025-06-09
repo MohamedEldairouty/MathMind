@@ -14,3 +14,4 @@ obj/
 *.db
 *.bak
 *.DS_Store
+"*.r2r.dll" 
