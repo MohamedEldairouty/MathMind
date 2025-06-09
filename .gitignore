@@ -1,0 +1,16 @@
+# Ignore build results
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.user
+*.suo
+*.tmp
+*.vs/
+*.vscode/
+*.db
+*.bak
+*.DS_Store
