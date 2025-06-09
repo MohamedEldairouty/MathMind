@@ -11,5 +11,5 @@
 *.DS_Store
 Thumbs.db
 
-# Ignore published .exe unless in App/
+# Ignore published  .exe unless in App/
 !App/**
